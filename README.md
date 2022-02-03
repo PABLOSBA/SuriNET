@@ -3,7 +3,7 @@
 * UPDATE 17/07/2021 - Proyecto Descontinuado
 * SURINET SCRIPT PE (Final Version 37)
 ```
-![logo](https://github.com/PABLOSBA/SuriNET/blob/main/Imagenes/SSHPLUS_MANAGER.jpg)
+![logo](https://github.com/PABLOSBA/SuriNET/blob/main/Imagenes/menu_SURINET_scriptPE.jpg)
 
 ```
 SCRIPT SSHPLUS MANAGER es un script con un conjunto de características y herramientas adecuadas para 
